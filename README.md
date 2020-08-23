@@ -1,16 +1,18 @@
-### Hi there 👋
+<h2> Hi there 👋.</h2>
 
-<!--
-**mottibec/mottibec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🔭 &nbsp; I’m currently working on [LaunchDate](https://www.launchdate.today)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; C# | C++
+- 🌐 &nbsp; Node.js | React.js
+- ☁️ &nbsp; Azure | Heroku
+<br/>
+
+
+[![Motti's github stats](https://github-readme-stats.vercel.app/api?username=mottibec)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mottibec&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
