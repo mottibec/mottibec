@@ -8,7 +8,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C# | C++ | JavaScript | Go
+- 💻 &nbsp; C# | JavaScript | Go
 - 🌐 &nbsp; Node.js | React.js
 - ☁️ &nbsp; Azure | Heroku
 <br/>
