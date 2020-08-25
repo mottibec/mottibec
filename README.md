@@ -14,3 +14,9 @@
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mottibec&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3>📗 Currently Reading</h3>
+
+- Domain-driven design
+- The Phoenix Project
+<br/>
