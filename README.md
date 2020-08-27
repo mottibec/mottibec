@@ -20,4 +20,4 @@
 - Domain-driven design
 - The Phoenix Project
 <br/>
-![Visitor Count](https://profile-counter.glitch.me/mottibec/count.svg)
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mottibec.mottibec)
