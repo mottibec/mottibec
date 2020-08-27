@@ -1,5 +1,7 @@
 <h2> Hi there 👋</h2>
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mottibec.mottibec)
+ 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
@@ -20,4 +22,3 @@
 - Domain-driven design
 - The Phoenix Project
 <br/>
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mottibec.mottibec)
