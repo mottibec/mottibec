@@ -20,3 +20,4 @@
 - Domain-driven design
 - The Phoenix Project
 <br/>
+![Visitor Count](https://profile-counter.glitch.me/mottibec/count.svg)
