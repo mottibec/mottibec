@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- 🔭 &nbsp; I’m currently working on [LaunchDate](https://www.launchdate.today)
+- 🔭 &nbsp; The last project i worked on is [LaunchDate](https://www.launchdate.today)
 
 <h3>🛠 Tech Stack</h3>
 
