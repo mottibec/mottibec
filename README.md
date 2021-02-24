@@ -10,7 +10,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C# | JavaScript | Go | Python
-- 🌐 &nbsp; Node.js | React.js
+- 🐳 | ⎈ | ECS
 - ☁️ &nbsp; Azure | Heroku | AWS
 <br/>
 
