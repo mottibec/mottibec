@@ -9,9 +9,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C# | JavaScript | Go
+- 💻 &nbsp; C# | JavaScript | Go | Python
 - 🌐 &nbsp; Node.js | React.js
-- ☁️ &nbsp; Azure | Heroku
+- ☁️ &nbsp; Azure | Heroku | AWS
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mottibec&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
